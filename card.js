@@ -67,7 +67,7 @@ const data = {
   github: chalk.cyan('https://github.com/fz6m'),
   blog: chalk.hex(color.blog)('https://fz6m.com'),
   csdn: chalk.hex(color.blog)('https://csdn.fz6m.com'),
-  card: chalk.hex(color.card)('yarn') + ' ' + chalk.white('fz6m'),
+  card: chalk.hex(color.card)('npx') + ' ' + chalk.white('fz6m'),
 
   labelGitHub: chalk.white.bold('   github:'),
   labelBlog: chalk.white.bold('     blog:'),
